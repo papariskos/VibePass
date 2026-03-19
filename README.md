@@ -31,7 +31,7 @@ Use Cases Details
 Desktop Dashboard Mockup
 
 💻 Tech Stack (Προτείνονται)
-Frontend: React.js / SCSS / Tailwind CSS
+Frontend: JavaFX
 Backend: Node.js / Express ή Python/Django
 Database: PostgreSQL / MongoDB
 Payments: Stripe API
